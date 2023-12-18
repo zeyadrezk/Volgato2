@@ -1,0 +1,2 @@
+[06-Dec-2023 00:00:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/hesabatt/public_html/vendor/symfony/string/UnicodeString.php on line 48
+[06-Dec-2023 00:01:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/hesabatt/public_html/vendor/symfony/string/UnicodeString.php on line 48

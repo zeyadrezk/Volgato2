@@ -1,0 +1,21 @@
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/fontawesome.css')); ?>">
+<!-- ico-font-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/icofont.css')); ?>">
+<!-- Themify icon-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/themify.css')); ?>">
+<!-- Flag icon-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/flag-icon.css')); ?>">
+<!-- Feather icon-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/feather-icon.css')); ?>">
+<!-- Plugins css start-->
+<?php echo $__env->yieldPushContent('css'); ?>
+<!-- Plugins css Ends-->
+<!-- Bootstrap css-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/bootstrap.css')); ?>">
+<!-- App css-->
+
+<?php echo app('Illuminate\Foundation\Vite')(['public/assets/scss/style.scss', 'resources/js/app.js']); ?>
+
+<link id="color" rel="stylesheet" href="<?php echo e(asset('assets/css/color-1.css')); ?>" media="screen">
+<!-- Responsive css-->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/responsive.css')); ?>"><?php /**PATH /var/www/html/Laravel-projects/Viho-laravel10/viho-laravel10_letest/resources/views/layouts/admin/partials/css.blade.php ENDPATH**/ ?>
